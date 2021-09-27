@@ -9,3 +9,4 @@ duration of rental bikes in Seoul Bike sharing system. The prediction is carried
 The Data used include trip duration, trip distance, pickup-dropoff latitude and longitude, temperature, precipitation, wind speed, humidity, solar radiation, snowfall, 
 ground temperature and 1-hour average dust concentration.
 
+# https://www.kaggle.com/saurabhshahane/seoul-bike-trip-duration-prediction
