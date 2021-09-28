@@ -10,3 +10,5 @@ The Data used include trip duration, trip distance, pickup-dropoff latitude and 
 ground temperature and 1-hour average dust concentration.
 
 # https://www.kaggle.com/saurabhshahane/seoul-bike-trip-duration-prediction
+
+Due to system limitations I could only access 1.5 million records out of 9.6 million records and performed EDA on it.
