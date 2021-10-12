@@ -40,4 +40,4 @@ Based on the insights from various graphs it looks like people who rent the bike
 - As the value of alpha keeps increasing for Ridge regression model most of the coefficients tend to move towards 0 i.e. come close to 0.
 - The R-squared value of the Ridge regression model keeps decreasing as the alpha value increases, this might be because we might be oversimplifying the model too much.
 - As the value of alpha keeps increasing for Lasso Regression all of the coefficients tend to become 0 we can observe this when alpha = 50.
-- The R-squared value of the Lasso Regression model keeps dropping as we keep on increasing the $\alpha$ value and becomes 0 when alpha = 50.
+- The R-squared value of the Lasso Regression model keeps dropping as we keep on increasing the alpha value and becomes 0 when alpha = 50.
