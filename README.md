@@ -13,13 +13,10 @@ ground temperature and 1-hour average dust concentration.
 Due to system limitations I could only access 1.5 million records out of 9.6 million records and performed EDA on it.
 
 ## Observations
-In the given dataset there are 2 types of data. They are numerical and categorical. The columns Pmonth, Pday, Phour, Pmin, PDweek, Dmonth, Dday, Dhour, Dmin, DDweek are categorical and the columns Duration, Distance, Haversine, Temp, Precip, Wind, Humid, Solar, Snow, GroundTemp, Dust are numerical.
-
-The duration column is in minutes and the distance column is in meters.
-
-The Duration, Distance, Haversine are right-skewed and Temp, Wind, Humid, GroundTemp have a normal distribution.
-
-Based on the insights from various graphs it looks like people who rent the bikes are using them to travel to offices(jobs).
+- In the given dataset there are 2 types of data. They are numerical and categorical. The columns Pmonth, Pday, Phour, Pmin, PDweek, Dmonth, Dday, Dhour, Dmin, DDweek are categorical and the columns Duration, Distance, Haversine, Temp, Precip, Wind, Humid, Solar, Snow, GroundTemp, Dust are numerical.
+- The duration column is in minutes and the distance column is in meters.
+- The Duration, Distance, Haversine are right-skewed and Temp, Wind, Humid, GroundTemp have a normal distribution.
+- Based on the insights from various graphs it looks like people who rent the bikes are using them to travel to offices(jobs).
 
 ## Interpretation model
 - The model has an overall explanatory power of 81%.
